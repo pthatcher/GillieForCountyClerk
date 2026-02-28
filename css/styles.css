@@ -185,7 +185,7 @@ h1, h2, h3 {
 
 .navbar-brand .slogan {
   font-size: 0.7rem;
-  color: var(--color-turquoise);
+  color: var(--color-red);
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
@@ -302,7 +302,7 @@ h1, h2, h3 {
 
 .hero-content .hero-subtitle {
   font-size: clamp(1rem, 2.5vw, 1.4rem);
-  color: var(--color-turquoise);
+  color: var(--color-red);
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -777,7 +777,7 @@ h1, h2, h3 {
 
 .footer-slogan {
   font-size: 0.8rem;
-  color: var(--color-turquoise);
+  color: var(--color-red);
   letter-spacing: 0.12em;
   text-transform: uppercase;
   margin-bottom: 1rem;
